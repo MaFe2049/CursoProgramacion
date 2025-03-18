@@ -35,7 +35,3 @@ Para estas actividades, nos hemos dado a la tarea de poder agilizar esta activid
 - <img width="600" alt="image" src="https://github.com/user-attachments/assets/f0711472-a42f-4b47-9559-b70fd0e0222a" />
 
 
-*[Acceso al proyecto](#acceso-proyecto)
-
-
-
